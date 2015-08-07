@@ -1,0 +1,20 @@
+#chat {
+  background-color: lightCoral;
+  height: 95%;
+  width: 100%;
+}
+
+#lower {
+  background-color: limeGreen;
+  height: 5%;
+  width: 100%;
+}
+
+#cmd {
+  width: 640px;
+}
+
+body {
+  margin: 0px;
+}
+
